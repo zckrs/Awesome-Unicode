@@ -491,9 +491,9 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 
 ## Emojis
 - [Unicode Consortium's Emoji Chart](http://www.unicode.org/emoji/charts/full-emoji-list.html)
-- [Emojipedia](http://emojipedia.org/) - Information about specific emoji, news blog.
-- [emojitracker](http://emojitracker.com/) - Realtime emoji use on Twitter.
-- [World Translation Foundation](http://www.emojifoundation.com/) - A way to promote, explore, and translate the written word into the pictorial alphabet of Emoji.
+- [Emojipedia](http://emojipedia.org) - Information about specific emoji, news blog.
+- [emojitracker](http://emojitracker.com) - Realtime emoji use on Twitter.
+- [World Translation Foundation](http://www.emojifoundation.com) - A way to promote, explore, and translate the written word into the pictorial alphabet of Emoji.
 - [Can I Emoji?](http://caniemoji.com/android-2/) - Displays the current status of native Emoji support across iOS, Android and Windows.
 - [How to register an emoji URL](http://www.name.com/blog/how-tos/2015/12/want-an-emoji-url-this-is-how-you-register-one/)
 
@@ -726,10 +726,10 @@ And heres some basic results
 
 
 ## Exploring Deeper into Unicode Yourself
-- [Shapecatcher](http://shapecatcher.com/) - Draw the character you're looking for.
+- [Shapecatcher](http://shapecatcher.com) - Draw the character you're looking for.
 - [Confusable Unicode Characters](http://unicode.org/cldr/utility/confusables.jsp?r=None)
 - [Unicode Character Database](http://www.unicode.org/ucd/)
-- [Database Dumps of Codepoints.net](https://dumps.codepoints.net/)
+- [Database Dumps of Codepoints.net](https://dumps.codepoints.net)
 - [Unicode Blocks List](http://www.unicode.org/Public/UCD/latest/ucd/Blocks.txt)
 - [Unicode Character Code Charts](http://www.unicode.org/charts/index.html)
 - [Unicode Case Charts](http://www.unicode.org/charts/case/)
