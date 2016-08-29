@@ -490,12 +490,12 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 
 
 ## Emojis
-* [Unicode Consortium's Emoji Chart](http://www.unicode.org/emoji/charts/full-emoji-list.html)
-* [Emojipedia](http://emojipedia.org/) - Information about specific emoji, news blog.
-* [emojitracker](http://emojitracker.com/) - Realtime emoji use on Twitter.
-* [World Translation Foundation](http://www.emojifoundation.com/) - A way to promote, explore, and translate the written word into the pictorial alphabet of Emoji.
-* [Can I Emoji?](http://caniemoji.com/android-2/) - Displays the current status of native Emoji support across iOS, Android and Windows.
-* [How to register an emoji URL](http://www.name.com/blog/how-tos/2015/12/want-an-emoji-url-this-is-how-you-register-one/)
+- [Unicode Consortium's Emoji Chart](http://www.unicode.org/emoji/charts/full-emoji-list.html)
+- [Emojipedia](http://emojipedia.org/) - Information about specific emoji, news blog.
+- [emojitracker](http://emojitracker.com/) - Realtime emoji use on Twitter.
+- [World Translation Foundation](http://www.emojifoundation.com/) - A way to promote, explore, and translate the written word into the pictorial alphabet of Emoji.
+- [Can I Emoji?](http://caniemoji.com/android-2/) - Displays the current status of native Emoji support across iOS, Android and Windows.
+- [How to register an emoji URL](http://www.name.com/blog/how-tos/2015/12/want-an-emoji-url-this-is-how-you-register-one/)
 
 
 ### Diversity
@@ -717,12 +717,12 @@ And heres some basic results
 
 
 ## More Reading
-* [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](http://www.joelonsoftware.com/articles/Unicode.html) - By Joel Spolsky
-* [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
-* [The Unicode Consortium's Recommended Reading List](http://www.unicode.org/resources/readinglist.html)
-* [Space Yourself](https://www.smashingmagazine.com/2015/10/space-yourself/) - Smashing Magazine's Spacing Guide
-* [JavaScript has a Unicode Problem](https://mathiasbynens.be/notes/javascript-unicode)
-* [Creative usernames and Spotify account hijacking](https://labs.spotify.com/2013/06/18/creative-usernames/)
+- [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](http://www.joelonsoftware.com/articles/Unicode.html) - By Joel Spolsky
+- [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
+- [The Unicode Consortium's Recommended Reading List](http://www.unicode.org/resources/readinglist.html)
+- [Space Yourself](https://www.smashingmagazine.com/2015/10/space-yourself/) - Smashing Magazine's Spacing Guide
+- [JavaScript has a Unicode Problem](https://mathiasbynens.be/notes/javascript-unicode)
+- [Creative usernames and Spotify account hijacking](https://labs.spotify.com/2013/06/18/creative-usernames/)
 
 
 ## Exploring Deeper into Unicode Yourself
@@ -1023,16 +1023,16 @@ And heres some basic results
 
 The Unicode Standard set forth the following fundamental principles:
 
-* **Universal repertoire** 	 - Every writing system ever used shall be respected and represented in the standard
-* **Logical order** 		 - In bidirectional text are the characters stored in logical order, not in a way that the representaion
-* **Efficiency**			 - The documentation must be efficient and complete.
-* **Unification**			 - Where different cultures or languages use the same character, it shall be only included once. This point is
-* **Characters, not glyphs** - Only characters, not glyphs shall be encoded. In a nutshell, glyphs are the actual graphical
-* **Dynamic composition**	 - New characters can be composed of other, already standardized characters. For example, the character “Ä” can be composed of an “A” and a dieresis sign (“ ¨ ”).
-* **Semantics**				 - Included characters must be well defined and distinguished from others.
-* **Stability**				 - Once defined characters shall never be removed or their codepoints reassigned. In the case of an error, a codepoint shall be deprecated.
-* **Plain Text**			 - Characters in the standard are text and never mark-up or metacharacters.
-* **Convertibility**		 - Every other used encoding shall be representable in terms of a Unicode encoding.
+- **Universal repertoire** 	 - Every writing system ever used shall be respected and represented in the standard
+- **Logical order** 		 - In bidirectional text are the characters stored in logical order, not in a way that the representaion
+- **Efficiency**			 - The documentation must be efficient and complete.
+- **Unification**			 - Where different cultures or languages use the same character, it shall be only included once. This point is
+- **Characters, not glyphs** - Only characters, not glyphs shall be encoded. In a nutshell, glyphs are the actual graphical
+- **Dynamic composition**	 - New characters can be composed of other, already standardized characters. For example, the character “Ä” can be composed of an “A” and a dieresis sign (“ ¨ ”).
+- **Semantics**				 - Included characters must be well defined and distinguished from others.
+- **Stability**				 - Once defined characters shall never be removed or their codepoints reassigned. In the case of an error, a codepoint shall be deprecated.
+- **Plain Text**			 - Characters in the standard are text and never mark-up or metacharacters.
+- **Convertibility**		 - Every other used encoding shall be representable in terms of a Unicode encoding.
 
 Note: Principle descriptions are from [codepoints.net](https://codepoints.net/about#unicode)
 
@@ -1040,18 +1040,18 @@ Note: Principle descriptions are from [codepoints.net](https://codepoints.net/ab
 
 ## Unicode Versions
 
-* [Version 9.0.0](http://www.unicode.org/versions/Unicode9.0.0/) (Latest Version, August 2016 - adds exactly 7,500 characters)
-* [Version 8.0.0](http://www.unicode.org/versions/Unicode8.0.0/)
-* [Version 7.0.0](http://www.unicode.org/versions/Unicode7.0.0/)
-* [Version 6.3.0](http://www.unicode.org/versions/Unicode6.3.0/)
-* [Version 6.2.0](http://www.unicode.org/versions/Unicode6.2.0/)
-* [Version 6.1.0](http://www.unicode.org/versions/Unicode6.1.0/)
-* [Version 6.0.0](http://www.unicode.org/versions/Unicode6.0.0/)
-* [Version 5.2.0](http://www.unicode.org/versions/Unicode5.2.0/)
-* [Version 5.1.0](http://www.unicode.org/versions/Unicode5.1.0/)
-* Version 5.0.0 (unavailable)
-* [Version 4.0.1](http://www.unicode.org/versions/Unicode4.0.1/)
-* [Version 4.0.0](http://www.unicode.org/versions/corrigendum5.html)
+- [Version 9.0.0](http://www.unicode.org/versions/Unicode9.0.0/) (Latest Version, August 2016 - adds exactly 7,500 characters)
+- [Version 8.0.0](http://www.unicode.org/versions/Unicode8.0.0/)
+- [Version 7.0.0](http://www.unicode.org/versions/Unicode7.0.0/)
+- [Version 6.3.0](http://www.unicode.org/versions/Unicode6.3.0/)
+- [Version 6.2.0](http://www.unicode.org/versions/Unicode6.2.0/)
+- [Version 6.1.0](http://www.unicode.org/versions/Unicode6.1.0/)
+- [Version 6.0.0](http://www.unicode.org/versions/Unicode6.0.0/)
+- [Version 5.2.0](http://www.unicode.org/versions/Unicode5.2.0/)
+- [Version 5.1.0](http://www.unicode.org/versions/Unicode5.1.0/)
+- Version 5.0.0 (unavailable)
+- [Version 4.0.1](http://www.unicode.org/versions/Unicode4.0.1/)
+- [Version 4.0.0](http://www.unicode.org/versions/corrigendum5.html)
 
 
 
