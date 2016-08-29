@@ -120,15 +120,12 @@ The first plane is called the Basic Multilingual Plane or BMP. It contains the c
 
 ### UTF-16 Surrogate Pairs
 > Characters outside the BMP, e.g. U+1D306 tetragram for centre (𝌆), can only be encoded in UTF-16 using two 16-bit code units: 0xD834 0xDF06. This is called a surrogate pair. Note that a surrogate pair only represents a single character.
-The first code unit of a surrogate pair is always in the range from 0xD800 to 0xDBFF, and is called a high surrogate or a lead surrogate.
-The second code unit of a surrogate pair is always in the range from 0xDC00 to 0xDFFF, and is called a low surrogate or a trail surrogate.
+> The first code unit of a surrogate pair is always in the range from 0xD800 to 0xDBFF, and is called a high surrogate or a lead surrogate.
+> The second code unit of a surrogate pair is always in the range from 0xDC00 to 0xDFFF, and is called a low surrogate or a trail surrogate.
 
 -- [Mathias Bynens](https://mathiasbynens.be/notes/javascript-encoding#surrogate-pairs)
 
-> Surrogate pair: A representation for a single abstract character that consists of a
-sequence of two 16-bit code units, where the first value of the pair is a high-surrogate
-code unit and the second value is a low-surrogate code unit. Surrogate pairs are used only in UTF-16. (See Section 3.9, Unicode Encoding
-Forms.) -- [Unicode 8.0.0 Chapter 3 - Surrogates](http://unicode.org/versions/Unicode8.0.0/ch03.pdf#page=47)
+> Surrogate pair: A representation for a single abstract character that consists of a sequence of two 16-bit code units, where the first value of the pair is a high-surrogate code unit and the second value is a low-surrogate code unit. Surrogate pairs are used only in UTF-16. (See Section 3.9, Unicode Encoding Forms.) -- [Unicode 8.0.0 Chapter 3 - Surrogates](http://unicode.org/versions/Unicode8.0.0/ch03.pdf#page=47)
 
 
 ### Calculating Surrogate Pairs
@@ -1070,11 +1067,7 @@ See the *Awesome Unicode* [contribution guide](CONTRIBUTING.md) for details on h
 ## Code of Conduct
 
 See the [Code of Conduct](CODE-OF-CONDUCT.md) for details. Basically it comes down to:
->In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of experience,
-nationality, personal appearance, race, religion, or sexual identity and orientation.
+>In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 
 <<<<<<< 667c2b230bdb9677da926def64d90a8872f797ac
