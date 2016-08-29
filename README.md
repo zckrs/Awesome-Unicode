@@ -178,7 +178,7 @@ Precomposed characters may be decomposed for consistency or analysis. For exampl
 - **Every Unicode code point represents a character** - No. There are lots of nonCharacters (FFFE, FFFF, 1FFFE,…)
 There are also surrogate code points, private and unassigned codepoints, and control/format “characters" (RLM, ZWNJ,…)
 
-- **Unicode will run out of space** - If it were linear, we would run out in 2140 AD. But it isn't linear. See http://www.unicode.org/roadmaps/
+- **Unicode will run out of space** - If it were linear, we would run out in 2140 AD. But it isn't linear. See <http://www.unicode.org/roadmaps/>
 
 - **Case mappings are 1-1** - No. They can also be:
   - One-to-many: (ß → SS )
@@ -712,8 +712,8 @@ And heres some basic results
 
 ## Unicode Fonts
 *A single TrueType / OpenType font format cannot cover all UTF-8 characters as there is a hard limit of 65535 glyphs in a font. Since there are over 1.1 million UTF-8 glphys, you will need to use a font-family to cover them all.*
-- https://en.wikipedia.org/wiki/Unicode_font#List_of_Unicode_fonts
-- http://www.unifont.org/fontguide/
+- <https://en.wikipedia.org/wiki/Unicode_font#List_of_Unicode_fonts>
+- <http://www.unifont.org/fontguide/>
 
 
 ## More Reading
